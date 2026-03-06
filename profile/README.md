@@ -35,7 +35,7 @@ We maintain school-wide digital platforms, create engaging multimedia content, a
 <div align="center">
 
 [![YouTube1](https://img.shields.io/badge/@waxedlightlywetheredcutcopper-FFFFFF?style=flat-square&logo=youtube&logoColor=black)](https://www.youtube.com/@waxedlightlywetheredcutcopper)
-[![YouTube2](https://img.shields.io/badge/@DLKR--ms-FFFFFF?style=flat-square&logo=youtube&logoColor=black)](https://www.youtube.com/@DLKR)
+[![YouTube2](https://img.shields.io/badge/@DLKR-FFFFFF?style=flat-square&logo=youtube&logoColor=black)](https://www.youtube.com/@DLKR)
 
 </div>
 
